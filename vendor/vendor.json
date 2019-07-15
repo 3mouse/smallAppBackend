@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "vwKu37MiDEeBNUngCdOzF8J20tg=",
+			"path": "github.com/emicklei/go-restful",
+			"revision": "d2b8501d30f1b2c552dafdb21e3434bbafdaa124",
+			"revisionTime": "2019-04-30T10:32:45Z"
+		},
+		{
+			"checksumSHA1": "zGYOyUB58GVhLkrwhG1ut66SPec=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "877a9775f06853f611fb2d4e817d92479242d1cd",
+			"revisionTime": "2019-05-10T10:23:35Z"
+		}
+	],
+	"rootPath": "smallAppBackend"
+}
